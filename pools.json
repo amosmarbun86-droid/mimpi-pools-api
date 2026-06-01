@@ -1,5 +1,5 @@
-{
-  "sydney": "9262",
-  "singapore": "2014",
-  "hongkong": "9604"
-}
+tampilkanDataPools({
+  "sydney": "4204",
+  "singapore": "4261",
+  "hongkong": "2120"
+});
